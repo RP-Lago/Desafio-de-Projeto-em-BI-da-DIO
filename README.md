@@ -1,6 +1,7 @@
 ## Desafio Power BI: Relatório de Análise Financeira
 
 Este README descreve minha jornada de aprendizado e realização do desafio de análise financeira utilizando o Power BI. O objetivo era construir um relatório completo e interativo com base nos dados financeiros fornecidos. 
+acompanhe como ficou, <a href="https://app.powerbi.com/links/dPOMpUXtm8?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare"> confira aqui!</a>
 
 **1. Entendendo o Desafio:**
 
